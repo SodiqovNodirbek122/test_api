@@ -6,5 +6,16 @@
       "status": "Todo",
       "file": ""
     }
+  ],
+  "statuses": [
+    {
+      "title": "Todo"
+    },
+    {
+      "title": "Doing"
+    },
+    {
+      "title": "Done"
+    }
   ]
 }
