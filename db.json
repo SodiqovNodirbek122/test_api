@@ -4,18 +4,22 @@
       "title": "Build UI for onboarding flow",
       "description": "adfdafdsas",
       "status": "Todo",
-      "file": ""
+      "file": "",
+      "id": "1"
     }
   ],
   "statuses": [
     {
-      "title": "Todo"
+      "title": "Todo",
+      "id": "1"
     },
     {
-      "title": "Doing"
+      "title": "Doing",
+      "id": "2"
     },
     {
-      "title": "Done"
+      "title": "Done",
+      "id": "3"
     }
   ]
 }
